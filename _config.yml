@@ -1,10 +1,7 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: 自我对话
+email: chazho10@163.com
+description: 我是写代码的
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -15,15 +12,15 @@ filter: 'tag'
 
 
 # Social account
-# twitter:  username
-# weibo:    ID
-# github:   username
-# codepen:  username
-# dribbble: username
+twitter:  kobras8
+weibo: kobras
+github: kobras8
+codepen:  kobras
+dribbble: kobras
 
 
 # Comment
-# disqus_shortname: discussion_shortname
+disqus_shortname: kobras8
 
 
 # Google Analytics
